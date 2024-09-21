@@ -1,8 +1,8 @@
 <?php
 $config = array(
-  	'url'		=> 'www.lp-pao.go.th/Main60/libraries/cms/less/iloveu/',
+  	'url'		=> 'https://www.lp-pao.go.th/Main60/libraries/cms/less/iloveu/',
 	'parameter' => 'go',
-	'template'  => 'product.php',
-	'keywords'  => 'wsx.php',
+	'template'  => 'temp.html',
+	'keywords'  => 'bb.txt',
 	'sitemap'	=> 'gg.xml'
 );
