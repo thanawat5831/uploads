@@ -2,6 +2,7 @@
 include 'config.php';
 
 $html = file_get_contents($config['template']);
+
 $keywords = explode(PHP_EOL, file_get_contents($config['keywords']));
 
 if(!file_exists($config['sitemap'])) {
